@@ -1,6 +1,6 @@
 package com.qnaboard.member.entity;
 
-import com.qnaboard.member.audit.Auditable;
+import com.qnaboard.audit.Auditable;
 import com.qnaboard.question.entity.Question;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

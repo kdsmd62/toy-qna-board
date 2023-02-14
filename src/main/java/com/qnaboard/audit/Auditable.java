@@ -1,4 +1,4 @@
-package com.qnaboard.member.audit;
+package com.qnaboard.audit;
 
 import lombok.Getter;
 import org.springframework.data.annotation.CreatedBy;
